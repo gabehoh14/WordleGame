@@ -35,7 +35,7 @@ public class MyFrame extends JFrame implements ActionListener, KeyListener {
     JLabel instructions4 = FrameObjects.createLabel(0, 260, 600, 100, "correct spot (green square), which letters are in the", "Times New Romans", 15, false);
     JLabel instructions5 = FrameObjects.createLabel(0, 290, 600, 100, "word but not the correct spot (yellow square), and", "Times New Romans", 15, false);
     JLabel instructions6 = FrameObjects.createLabel(0, 320, 600, 100, "which letters are not in the word at all (gray square).", "Times New Romans", 15, false);
-    JButton understandInstructions = FrameObjects.createButton(200, 400, 200, 50, "PLAY", "Times New Romans", 20, Color.GRAY);
+    JButton understandInstructions = FrameObjects.createButton(200, 410, 200, 50, "PLAY", "Times New Romans", 20, Color.GRAY);
     public MyFrame() {
         super("WORDLE");
         // -------------------Beginning Screen---------------------- //
