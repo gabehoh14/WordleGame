@@ -1,4 +1,4 @@
-## Wordle
+# Wordle
 
 This Wordle game clone allows users to both create and play the popular NYT Wordle game offline. Wordle is a game where players have six attempts to guess a random hidden five-letter word with color-coded feedback after each guess.
 
@@ -9,7 +9,7 @@ Users are also given the choice to create their own Wordle game with any five le
 This projet was created entirely on Java, utilizing frameworks such as Java Swing and AWT with over 100 custom panels, buttons, and labels
 
 
-# How to Play
+## How to Play
 
 1. Enter a 5 letter guess
 2. Analyze color feedback
